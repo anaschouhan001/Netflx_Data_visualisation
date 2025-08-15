@@ -132,13 +132,3 @@ Commit your changes
 
 Push to your branch and open a Pull Request
 
-📜 License
-
-This project is licensed under the MIT License.
-
-
----
-
-If you want, I can **add example chart images directly into the README** so your GitHub page looks more visual and appealing when someone visits. That would make recruiters notice it immediately.  
-
-Do you want me to make that version with chart previews?
